@@ -12,3 +12,4 @@ Example CLI tools created in python using typer, poetry and pipx
 - `cd calculator-jms`
 - `poetry add typer`
 - `poetry shell`
+- `typer calculator_jms.main utils docs --output DOCS.md --name calculator-jms`
